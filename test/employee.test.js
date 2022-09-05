@@ -42,7 +42,7 @@ describe("employee", () => {
       let employee = {
         first_name: "krishna",
         last_name: "mohan",
-        email: "ram@hotmail.com",
+        email: "minorchanges@hotmail.com",
         number: "+9425656675",
         gender: "M",
         photo: "https://randomuser.me/api/portraits/men/37.jpg",
